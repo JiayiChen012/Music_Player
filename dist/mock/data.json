@@ -1,0 +1,49 @@
+[
+    {
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "纸短情长",
+        "album": "纸短情长",
+        "singer": "花粥",
+        "duration": 187,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "最初的梦想",
+        "album": "最初的梦想",
+        "singer": "范玮琪",
+        "duration": 296,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "星星",
+        "album": "天籁之战第二季",
+        "singer": "张杰",
+        "duration": 272,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "起风了",
+        "album": "林俊杰专辑",
+        "singer": "林俊杰",
+        "duration": 290,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_5.jpg",
+        "audioSrc": "../source/song_5.mp3",
+        "name": "一百万个可能",
+        "album": "虎二专辑",
+        "singer": "虎二",
+        "duration": 253,
+        "isLike": false
+    }
+
+
+]
