@@ -1,6 +1,5 @@
 # Music_Player
-Music_Player
-
+移动端音乐播放器
 
 1. 利用自动化构建工具 gulp 完成模块化开发，利用 less 来编写 css ，引用zepto 工具库；
 2. 完成 ajax 访问本地 json 文件去请求歌曲资源；
